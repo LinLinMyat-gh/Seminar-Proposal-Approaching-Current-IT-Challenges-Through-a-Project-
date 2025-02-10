@@ -46,3 +46,6 @@ Mr. Zin Maung Maung Wine delivered an in-depth discussion on **project managemen
 The seminar successfully provided students with **practical knowledge and industry insights**, bridging the gap between **theoretical concepts and real-world IT project challenges**. Participants gained a deeper understanding of **project management strategies** and their application in solving **emerging ICT issues**.  
 
 For full details, please refer to the **seminar report PDF** available in this repository.  
+
+![Seminar in Information and Communication Technology(1)](https://github.com/user-attachments/assets/ad29ac89-399c-4528-83fb-287891cea118)
+
