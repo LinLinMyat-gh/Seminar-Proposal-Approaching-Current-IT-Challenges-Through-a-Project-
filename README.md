@@ -1,0 +1,1 @@
+# Seminar-Proposal-Approaching-Current-IT-Challenges-Through-a-Project-
